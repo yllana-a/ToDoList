@@ -17,7 +17,6 @@ function concluirTarefa() {
 
 
 }
-
 // Função do menu principal
 function menu() {
   console.log("\n📝 To-do List - Escolha uma opção:");
